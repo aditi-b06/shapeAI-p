@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6f73ea1d.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.8cae77aa.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.8cae77aa.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.66e674fb.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.66e674fb.js.map",
-    "static/js/2.de9987b0.chunk.js": "/react-gh-pages/static/js/2.de9987b0.chunk.js",
-    "static/js/2.de9987b0.chunk.js.map": "/react-gh-pages/static/js/2.de9987b0.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.6f73ea1d.chunk.css.map": "/react-gh-pages/static/css/main.6f73ea1d.chunk.css.map",
-    "static/js/2.de9987b0.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.de9987b0.chunk.js.LICENSE.txt"
+    "main.css": "/shapeAI-p/static/css/main.6f73ea1d.chunk.css",
+    "main.js": "/shapeAI-p/static/js/main.8cae77aa.chunk.js",
+    "main.js.map": "/shapeAI-p/static/js/main.8cae77aa.chunk.js.map",
+    "runtime-main.js": "/shapeAI-p/static/js/runtime-main.c64cc0ac.js",
+    "runtime-main.js.map": "/shapeAI-p/static/js/runtime-main.c64cc0ac.js.map",
+    "static/js/2.de9987b0.chunk.js": "/shapeAI-p/static/js/2.de9987b0.chunk.js",
+    "static/js/2.de9987b0.chunk.js.map": "/shapeAI-p/static/js/2.de9987b0.chunk.js.map",
+    "index.html": "/shapeAI-p/index.html",
+    "static/css/main.6f73ea1d.chunk.css.map": "/shapeAI-p/static/css/main.6f73ea1d.chunk.css.map",
+    "static/js/2.de9987b0.chunk.js.LICENSE.txt": "/shapeAI-p/static/js/2.de9987b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.66e674fb.js",
+    "static/js/runtime-main.c64cc0ac.js",
     "static/js/2.de9987b0.chunk.js",
     "static/css/main.6f73ea1d.chunk.css",
     "static/js/main.8cae77aa.chunk.js"
