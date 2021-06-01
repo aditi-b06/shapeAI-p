@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/aditi-b06/shapeAI-p.git/static/css/main.6f73ea1d.chunk.css",
-    "main.js": "/aditi-b06/shapeAI-p.git/static/js/main.8cae77aa.chunk.js",
-    "main.js.map": "/aditi-b06/shapeAI-p.git/static/js/main.8cae77aa.chunk.js.map",
-    "runtime-main.js": "/aditi-b06/shapeAI-p.git/static/js/runtime-main.da888b89.js",
-    "runtime-main.js.map": "/aditi-b06/shapeAI-p.git/static/js/runtime-main.da888b89.js.map",
-    "static/js/2.de9987b0.chunk.js": "/aditi-b06/shapeAI-p.git/static/js/2.de9987b0.chunk.js",
-    "static/js/2.de9987b0.chunk.js.map": "/aditi-b06/shapeAI-p.git/static/js/2.de9987b0.chunk.js.map",
-    "index.html": "/aditi-b06/shapeAI-p.git/index.html",
-    "static/css/main.6f73ea1d.chunk.css.map": "/aditi-b06/shapeAI-p.git/static/css/main.6f73ea1d.chunk.css.map",
-    "static/js/2.de9987b0.chunk.js.LICENSE.txt": "/aditi-b06/shapeAI-p.git/static/js/2.de9987b0.chunk.js.LICENSE.txt"
+    "main.css": "/react-gh-pages/static/css/main.6f73ea1d.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.8cae77aa.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.8cae77aa.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.66e674fb.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.66e674fb.js.map",
+    "static/js/2.de9987b0.chunk.js": "/react-gh-pages/static/js/2.de9987b0.chunk.js",
+    "static/js/2.de9987b0.chunk.js.map": "/react-gh-pages/static/js/2.de9987b0.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.6f73ea1d.chunk.css.map": "/react-gh-pages/static/css/main.6f73ea1d.chunk.css.map",
+    "static/js/2.de9987b0.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.de9987b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.da888b89.js",
+    "static/js/runtime-main.66e674fb.js",
     "static/js/2.de9987b0.chunk.js",
     "static/css/main.6f73ea1d.chunk.css",
     "static/js/main.8cae77aa.chunk.js"
